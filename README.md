@@ -21,6 +21,8 @@ I'm Nicolò Tartaggia and I'm a back-end software developer.
 - :ski: Love skiing
 - :airplane: Love travelling
 
+---
+
 📫 How to reach me:
 - [![](https://user-images.githubusercontent.com/43966074/222817530-b2a70fac-dd63-443f-94f1-b55776845b55.png)](https://www.linkedin.com/in/nictartaggia/)
 - nicolo.tartaggia@gmail.com
