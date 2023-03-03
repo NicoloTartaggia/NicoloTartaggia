@@ -16,6 +16,15 @@ I'm Nicolò Tartaggia and I'm a back-end software developer.
 - [Probabilistic graphical model Grafana Plugin](https://github.com/GiovanniSorice/7DOS-plugin)
 - OKR platform: [API](https://github.com/NicoloTartaggia/API_uqido_okr) and [Angular application](https://github.com/NicoloTartaggia/angular_okr_uqido)
 
+### :v: About me:
+- :soccer: Football and futsal
+- :ski: Love skiing
+- :airplane: Love travelling
+
+📫 How to reach me:
+- [![](https://user-images.githubusercontent.com/43966074/222817530-b2a70fac-dd63-443f-94f1-b55776845b55.png)](https://www.linkedin.com/in/nictartaggia/)
+- nicolo.tartaggia@gmail.com
+
 <!--
 **NicoloTartaggia/NicoloTartaggia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
