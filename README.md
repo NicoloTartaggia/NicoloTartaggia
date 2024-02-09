@@ -3,7 +3,8 @@
 I'm Nicolò Tartaggia and I'm a back-end software engineer. 
 
 ### 💻 Experience
-- Currently working at THRON, an Italian-based company that develops a DAM platform to control, manage and distribute digital contents.
+- Currently working at Freename.
+- Previoulsy back-end software engineer at THRON.
 - Previoulsy ML Engineer (Intern) at THRON.
 
 ### 🎓 Education:
