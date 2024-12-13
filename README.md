@@ -3,7 +3,7 @@
 I'm Nicolò Tartaggia and I'm a back-end software engineer. 
 
 ### 💻 Experience
-- Currently working at Esosphera.
+- Currently working at Esosphera (part of Covisian group).
 - Previoulsy back-end engineer at Freename and THRON.
 - Previoulsy ML Engineer (Intern) at THRON.
 
