@@ -1,6 +1,6 @@
 ## Hi there, nice to meet you 👋
 
-I'm Nicolò Tartaggia and I'm a back-end software engineer. 
+I'm Nicolò Tartaggia and I'm a software engineer. 
 
 ### 💻 Experience
 - Currently working at Esosphera (part of Covisian group).
